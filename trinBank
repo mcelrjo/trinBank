@@ -1,0 +1,16 @@
+gene_id  TRINITY_DN3_c0_g1
+transcript_id    TRINITY_DN3_c0_g1_i1
+sprot_Top_BLASTX_hit      PLCD6_ARATH^PLCD6_ARATH^Q:202-59,H:252-302^52.941%ID^E:6.7e-09^RecName: Full=Phosphoinositide phospholipase C 6;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis
+RNAMMER .
+prot_id .
+prot_coords [2-61-]
+sprot_Top_BLASTP_hit    .
+Pfam    .
+SignalP .
+TmHMM   .
+eggnog  ENOG410XPSW^phospholipase c
+Kegg    KEGG:ath:AT2G40116`KO:K05857
+gene_ontology_blast GO:0005622^cellular_component^intracellular`GO:0005886^cellular_component^plasma membrane`GO:0004435^molecular_function^phosphatidylinositol phospholipase C activity`GO:0004871^molecular_function^signal transducer activity`GO:0035556^biological_process^intracellular signal transduction`GO:0016042^biological_process^lipid catabolic process
+gene_ontology_pfam  .
+transript   CGGCATTTGAATCTATTCTTCTCATGCTTCCTTCGTCTGGCAGCTCAGCTATGTTTCCACTGACATTCTGATTATTCTCATCATTGAGAAACTCCTTATACTCTTGTGGTGGTTTAGTTGATATGATTATTCTCTTCATTAGAGCTGCTGGAGAAGGAAAGTCTTTCGTCGGGTCTGAATTAGGGACGAAAAGAAGATCTCCAA
+peptide .   
